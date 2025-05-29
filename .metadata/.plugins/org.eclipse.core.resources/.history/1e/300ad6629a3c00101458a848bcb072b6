@@ -1,0 +1,5 @@
+package com.Rudrian.Repository;
+
+public interface ClienteRepository {
+
+}
